@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Hello World!
 Hello World, git is fun!
+=======
+Hola Mundo!
+Hola mundo, git es divertido!
+>>>>>>> spanish
